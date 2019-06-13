@@ -3,8 +3,8 @@
 
 ## Experience ### (http://example.com/)
 
-<img src="images/cheaper_than_a_burger.jpg?raw=true"/>
-
+<img src="images/cheaper_than_a_burger.jpg?raw=true" style="float:left;"/>
+<h3 style="float:right;">Hello</h3>
 
 ## Art ### (http://example.com/)
 <img src="images/elissa.jpg?raw=true"/>
