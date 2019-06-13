@@ -1,5 +1,4 @@
 ## Portfolio
-
 ---
 
 ### Experience (http://example.com/)
@@ -11,7 +10,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-### Resume(/pdf/sample_presentation.pdf)
+### Resume (/pdf/sample_presentation.pdf)s
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
