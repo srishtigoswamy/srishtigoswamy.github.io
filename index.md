@@ -7,10 +7,10 @@
 
 
 ### Art (http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/elissa.jpg?raw=true"/>
 
 
-### Resume (/pdf/sample_presentation.pdf)s
+### Resume (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
