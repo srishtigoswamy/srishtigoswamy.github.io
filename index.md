@@ -1,16 +1,16 @@
 ## Portfolio
 ---
 
-## Experience ###(http://example.com/)
+## Experience ### (http://example.com/)
 
 <img src="images/cheaper_than_a_burger.jpg?raw=true"/>
 
 
-## Art ###(http://example.com/)
+## Art ### (http://example.com/)
 <img src="images/elissa.jpg?raw=true"/>
 
 
-###Resume ###(/pdf/sample_presentation.pdf)
+## Resume ### (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -23,7 +23,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
