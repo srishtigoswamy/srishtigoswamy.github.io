@@ -2,20 +2,18 @@
 
 ---
 
-### Experience
+### Experience (http://example.com/)
 
-[Project 1 Title](/sample_page)
-<img src="images/cheaper_than_a_burger.jpg?raw=true"/>s
+<img src="images/cheaper_than_a_burger.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Art (http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
+
+### Resume(/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
