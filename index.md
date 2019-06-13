@@ -6,6 +6,11 @@
 <img src="images/cheaper_than_a_burger.jpg?raw=true" style="float:left;"/>
 <h3 style="float:right;">Hello</h3>
 
+<body>
+<img src="website_art.png" height= "75" width="235" style="float:left;"/>
+<h3 style="float:right;">The Art of Gaming</h3>
+</body>
+
 ## Art ### (http://example.com/)
 <img src="images/elissa.jpg?raw=true"/>
 
@@ -21,5 +26,7 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
+---
 
 ---
