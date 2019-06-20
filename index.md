@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 
-## Experience ### (http://example.com/)
+## Experience (http://example.com/)
 
 <img src="images/cheaper_than_a_burger.jpg?raw=true" style="float:left;"/>
 <h3 style="float:right;">Hello</h3>
@@ -11,11 +11,11 @@
 <h3 style="float:right;">The Art of Gaming</h3>
 </body>
 
-## Art ### (http://example.com/)
+## Art (http://example.com/)
 <img src="images/elissa.jpg?raw=true"/>
 
 
-## Resume ### (/pdf/sample_presentation.pdf)
+## Resume (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
